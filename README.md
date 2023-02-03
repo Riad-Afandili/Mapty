@@ -1,1 +1,1 @@
-# Mapty you need to open it up and to use it you right click on the map for it to open up a tab, put in your runni9ng or cycling route and it can rember it and its location. Press Enter when you are done with filling in the fields.
+For this application you need to open it up and to use it you right click on the map for it to open up a tab, put in your running or cycling route and it can remember it and its location. Press Enter when you are done with filling in the fields.
